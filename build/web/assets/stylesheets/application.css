@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2018, 3:35:51 AM
+    Author     : loki
+*/
+@import url('https://fonts.googleapis.com/css?family=Niramit:300,400,700');
+
+body {
+    background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rd7hGetRgj1tekoj0/videoblocks-medical-staff-at-the-hospitals-corridor-blurred-background-timelapse_ba615vcce_thumbnail-full01.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Niramit', sans-serif;
+}
